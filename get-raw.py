@@ -64,7 +64,6 @@ def grab_sticker(sticker, key, destination_set, image_type):
     del(parts[-2])
     url = '/'.join(parts)
     print('Downloading... %s' % url)
-    print(parts)
     with urllib.request.urlopen(url) as response, open(dest, 'wb') as out_file:
       shutil.copyfileobj(response, out_file)
     print('OK')
