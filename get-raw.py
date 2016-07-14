@@ -72,4 +72,4 @@ def grab_sticker(sticker, key, destination_set, image_type):
 
 if __name__ == '__main__':
   get_stickers('graphql-pusheen.json', 'pusheen')
-  get_stickers('graphql-pusheen-eats.json', 'pusheen-eats')
+  get_stickers('graphql-pusheen-eats.json', 'pusheen_eats')
