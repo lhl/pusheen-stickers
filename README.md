@@ -1,6 +1,8 @@
 # pusheen-stickers
 Scripts to pull Pusheen/FB stickers and animate them
 
+![Pusheen Typing](https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif)
+
 No copyright intended, yo!
 j/k, this is for fair use purposes.
 
